@@ -1,3 +1,5 @@
+## get to know a little about me!💙
+
 - 👋 Hi, I’m @rafinhapet
 - 👀 I’m interested in learn about javascript
 - 🌱 I’m currently learning javascript
